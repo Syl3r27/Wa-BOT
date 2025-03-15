@@ -7,7 +7,7 @@
 
 1. Download and install [Git](https://git-scm.com/downloads)
 2. Download and install [Nodejs](https://nodejs.org/en/download)
-3. Open terminal and run - `git clone https://github.com/Shubhamrawat5/whatsapp-bot-ts`
+3. Open terminal and run - `git clone
 4. Open bot folder - `cd whatsapp-bot-ts`
 5. Install all dependencies - `npm install`
 
