@@ -1,6 +1,4 @@
-# Multi Device Whatsapp Bot in TS :robot:
-
-[Click to show Webpage](https://shubhamrawat5.github.io/whatsapp-bot-ts/)
+# Multi Device Whatsapp Bot 
 
 <!-- ![logo](https://i.ibb.co/Fmk9bhG/bot.jpg) -->
 <img src="https://i.ibb.co/Fmk9bhG/bot.jpg" width="300" height="300" alt="logo">
@@ -165,7 +163,5 @@ Default prefix: `!`
 
 ## References:- :rocket:
 
-- Nodejs package - [Baileys](https://github.com/adiwajshing/Baileys)
-- Old non-md wa bot - [PVX Bot](https://github.com/Shubhamrawat5/whatsapp-bot)
-#   W a - B O T  
+- Nodejs package - [Baileys](https://github.com/adiwajshing/Baileys) 
  
